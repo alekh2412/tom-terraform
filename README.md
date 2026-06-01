@@ -160,19 +160,23 @@ Welcome to nginx!
 
 ### Terraform Apply
 
-![Terraform Apply](screenshots/terraform-apply.png)
+<img width="1918" height="467" alt="terraform-apply" src="https://github.com/user-attachments/assets/7f554bb9-32d0-4827-94eb-cf6bba5ea48c" />
+
 
 ### AWS EC2 Instance
 
-![AWS EC2](screenshots/aws-ec2.png)
+ <img width="1918" height="1002" alt="aws-ec2" src="https://github.com/user-attachments/assets/f042273c-7abd-42d5-9afe-c68a7dddac71" />
+
 
 ### Security Group
 
-![Security Group](screenshots/security-group.png)
+ <img width="1918" height="1002" alt="security-group" src="https://github.com/user-attachments/assets/dcb29c20-d68d-40ca-8a46-9dc00d7063d6" />
+
 
 ### Nginx Running
 
-![Nginx](screenshots/nginx-page.png)
+ <img width="1918" height="957" alt="nginx-page" src="https://github.com/user-attachments/assets/bc384ed1-634b-41a4-8192-7335264e9550" />
+
 
 ---
 
